@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Completed B.Tech in Computer Science and Engineering - 2023 <br>📚 I'm currently learning next.js v14 and Typescript.<br>🎲 when not coding , probably playing guitar</p>
+<p align="left">✨ Completed B.Tech in Computer Science and Engineering - 2023 <br>📚 I'm currently learning next.js v14 and typescript.<br>🎲 When not coding, probably playing guitar</p>
 
 ###
 
@@ -98,6 +98,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SumanGurung01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
