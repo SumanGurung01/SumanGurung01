@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">My name is Suman Gurung. I am a Frontend Developer who loves building user-friendly websites and listen to music</h3>
+<h3 align="left">My name is Suman Gurung. I am a Frontend Developer who loves building user-friendly websites and listening music</h3>
 
 ###
 
